@@ -1,13 +1,13 @@
 {
   "brand": {
-    "name": "Cozin.ia",
-    "slogan": "O futuro da comida é consciente.",
+    "name": "Conecta.me",
+    "slogan": "O futuro dos relacionamentos",
     "shortDescription": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
     "longDescription": "O propósito do app é incentivar a conscientização do desperdício de alimento utilizando inteligência artificial para reaproveitar o que já tem em casa. A ideia é a pessoa fotografar os alimentos que tem em casa ou na dispensa ou na geladeira, e a IA irá sugerir receitas saudáveis com o que ela tem. A pessoa também poderá listar os alimentos caso não queira tirar foto, ou utilizar recursos de voz."
   },
   "seo": {
-    "title": "Cozin.ia - Receitas sustentáveis com IA",
-    "description": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
+    "title": "Conecta.me - O futuro dos relacionamentos",
+    "description": "Aplicativo para de relacionamentos.",
     "keywords": "Receitas sustentáveis, Inteligencia Artificial, App de receitas, receitas inovadoras"
   },
   "navbar": {
@@ -106,7 +106,7 @@
     "button": "Começar agora"
   },
   "footer": {
-    "copyright": "© 2025 Cozin.ia. Todos os direitos reservados.",
+    "copyright": "© 2025 Conecta.me. Todos os direitos reservados.",
     "links": [
       {
         "title": "Produto",
