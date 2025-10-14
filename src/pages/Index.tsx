@@ -6,10 +6,11 @@ import { Features } from "@/components/Features";
 import { HowItWorks } from "@/components/HowItWorks";
 import { CTA } from "@/components/CTA";
 import { Footer } from "@/components/Footer";
-import content from "@/data/content.json";
+import contentData from "@/data/content.json";
+import type { ContentData } from "@/types/content";
 
 const Index = () => {
-  const [data, setData] = useState(content);
+  const [data, setData] = useState<ContentData>(contentData as ContentData);
 
   useEffect(() => {
     // Update document title and meta tags
