@@ -1,119 +1,119 @@
 {
   "brand": {
-    "name": "Conecta.me",
-    "slogan": "Encontros reais, conexões verdadeiras.",
-    "shortDescription": "Aplicativo de relacionamento inteligente que conecta pessoas com base em interesses, valores e compatibilidade emocional.",
-    "longDescription": "O Conecta.me é um app de relacionamento que vai além da aparência. Utilizamos inteligência artificial para conectar pessoas com base em afinidades, objetivos de vida, valores e interesses em comum. Combinando testes de personalidade, algoritmos inteligentes e sugestões personalizadas, oferecemos uma experiência autêntica e significativa para quem busca algo verdadeiro."
+    "name": "Cozin.ia",
+    "slogan": "O futuro da comida é consciente.",
+    "shortDescription": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
+    "longDescription": "O propósito do app é incentivar a conscientização do desperdício de alimento utilizando inteligência artificial para reaproveitar o que já tem em casa. A ideia é a pessoa fotografar os alimentos que tem em casa ou na dispensa ou na geladeira, e a IA irá sugerir receitas saudáveis com o que ela tem. A pessoa também poderá listar os alimentos caso não queira tirar foto, ou utilizar recursos de voz."
   },
   "seo": {
-    "title": "Conecta.me - Relacionamentos reais com inteligência artificial",
-    "description": "Aplicativo de relacionamento que conecta pessoas com base em interesses, valores e compatibilidade emocional.",
-    "keywords": "App de relacionamento, relacionamento sério, encontros online, compatibilidade emocional, inteligência artificial"
+    "title": "Cozin.ia - Receitas sustentáveis com IA",
+    "description": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
+    "keywords": "Receitas sustentáveis, Inteligencia Artificial, App de receitas, receitas inovadoras"
   },
   "navbar": {
     "links": [
       { "label": "Início", "href": "#hero" },
-      { "label": "Nossos Números", "href": "#stats" },
-      { "label": "Funcionalidades", "href": "#features" },
+      { "label": "Estatísticas", "href": "#stats" },
+      { "label": "Recursos", "href": "#features" },
       { "label": "Como Funciona", "href": "#how-it-works" },
-      { "label": "Cadastre-se", "href": "#cta" }
+      { "label": "Comece Agora", "href": "#cta" }
     ],
     "ctaButton": "Baixar App"
   },
   "hero": {
-    "title": "Encontre conexões que fazem sentido",
-    "subtitle": "Compatibilidade de verdade com ajuda da inteligência artificial",
+    "title": "Transforme seus ingredientes em receitas incríveis",
+    "subtitle": "Fotografe o que tem na geladeira e descubra receitas deliciosas com inteligência artificial",
     "ctaPrimary": "Baixar o app",
-    "ctaSecondary": "Descubra como funciona"
+    "ctaSecondary": "Ver como funciona"
   },
   "stats": {
-    "title": "Conectando pessoas com propósito",
+    "title": "Números que fazem a diferença",
     "items": [
       {
-        "value": "92%",
-        "label": "Taxa de compatibilidade bem-sucedida"
+        "value": "89%",
+        "label": "Redução de desperdício"
       },
       {
-        "value": "1M+",
-        "label": "Conexões geradas"
+        "value": "500+",
+        "label": "Receitas geradas por dia"
       },
       {
-        "value": "4.9★",
+        "value": "4.8★",
         "label": "Avaliação dos usuários"
       }
     ]
   },
   "features": {
-    "title": "Tecnologia que aproxima",
-    "subtitle": "Tudo o que você precisa para encontrar o par ideal",
+    "title": "Tudo o que você precisa para cozinhar melhor",
+    "subtitle": "Tecnologia de ponta para uma alimentação consciente e saudável",
     "items": [
       {
+        "icon": "Camera",
+        "title": "Reconhecimento por foto",
+        "description": "Tire uma foto dos ingredientes e nossa IA identifica automaticamente o que você tem disponível"
+      },
+      {
+        "icon": "Mic",
+        "title": "Comando de voz",
+        "description": "Prefere falar? Basta ditar os ingredientes e receba sugestões personalizadas instantaneamente"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Receitas inteligentes",
+        "description": "Algoritmos avançados criam receitas saudáveis e deliciosas baseadas no seu perfil e preferências"
+      },
+      {
+        "icon": "Leaf",
+        "title": "Zero desperdício",
+        "description": "Aproveite cada ingrediente ao máximo e contribua para um planeta mais sustentável"
+      },
+      {
         "icon": "Heart",
-        "title": "Match inteligente",
-        "description": "Nosso algoritmo cruza dados de personalidade, estilo de vida e valores para sugerir conexões reais"
+        "title": "Alimentação saudável",
+        "description": "Todas as receitas são balanceadas nutricionalmente para manter sua saúde em dia"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Conversa com contexto",
-        "description": "Sugestões de tópicos e quebra-gelos baseados nos interesses em comum"
-      },
-      {
-        "icon": "UserCheck",
-        "title": "Perfis verificados",
-        "description": "Garantimos segurança e autenticidade com verificação de identidade"
-      },
-      {
-        "icon": "Brain",
-        "title": "Testes de personalidade",
-        "description": "Descubra seu tipo emocional e encontre pessoas verdadeiramente compatíveis"
-      },
-      {
-        "icon": "Calendar",
-        "title": "Eventos e encontros",
-        "description": "Participe de eventos online e presenciais para conhecer pessoas com interesses semelhantes"
-      },
-      {
-        "icon": "ShieldCheck",
-        "title": "Privacidade em primeiro lugar",
-        "description": "Seus dados são protegidos com criptografia e políticas claras de segurança"
+        "icon": "Clock",
+        "title": "Economia de tempo",
+        "description": "Sem mais planejamento de refeições. Receba sugestões prontas em segundos"
       }
     ]
   },
   "howItWorks": {
     "title": "Como funciona",
-    "subtitle": "Três passos para encontrar sua conexão ideal",
+    "subtitle": "Três passos simples para nunca mais desperdiçar comida",
     "steps": [
       {
         "number": "01",
-        "title": "Crie seu perfil",
-        "description": "Responda ao nosso teste de personalidade e adicione suas preferências"
+        "title": "Capture seus ingredientes",
+        "description": "Fotografe, liste ou fale os alimentos que você tem em casa"
       },
       {
         "number": "02",
-        "title": "Descubra conexões",
-        "description": "A IA analisa seu perfil e sugere pessoas compatíveis com você"
+        "title": "IA analisa e sugere",
+        "description": "Nossa inteligência artificial processa suas opções e cria receitas personalizadas"
       },
       {
         "number": "03",
-        "title": "Converse e conheça",
-        "description": "Inicie conversas autênticas e marque encontros com quem faz sentido pra você"
+        "title": "Cozinhe e aproveite",
+        "description": "Siga o passo a passo e prepare refeições deliciosas sem desperdício"
       }
     ]
   },
   "cta": {
-    "title": "Pronto para conhecer alguém especial?",
-    "subtitle": "Junte-se a milhões de pessoas que estão encontrando conexões reais com o Conecta.me",
+    "title": "Pronto para revolucionar sua cozinha?",
+    "subtitle": "Junte-se a milhares de usuários que já estão cozinhando de forma mais inteligente e sustentável",
     "button": "Começar agora"
   },
   "footer": {
-    "copyright": "© 2025 Conecta.me. Todos os direitos reservados.",
+    "copyright": "© 2025 Cozin.ia. Todos os direitos reservados.",
     "links": [
       {
         "title": "Produto",
         "items": [
           { "label": "Funcionalidades", "url": "#features" },
           { "label": "Como funciona", "url": "#how-it-works" },
-          { "label": "Planos", "url": "#pricing" }
+          { "label": "Preços", "url": "#pricing" }
         ]
       },
       {
@@ -127,8 +127,8 @@
       {
         "title": "Legal",
         "items": [
-          { "label": "Política de Privacidade", "url": "#privacy" },
-          { "label": "Termos de Uso", "url": "#terms" }
+          { "label": "Privacidade", "url": "#privacy" },
+          { "label": "Termos", "url": "#terms" }
         ]
       }
     ]

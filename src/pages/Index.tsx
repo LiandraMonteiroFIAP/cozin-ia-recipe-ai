@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
-import { HeroImage } from "@/components/HeroImage";
 import { Stats } from "@/components/Stats";
 import { Features } from "@/components/Features";
 import { HowItWorks } from "@/components/HowItWorks";
@@ -44,8 +43,6 @@ const Index = () => {
           ctaSecondary={data.hero.ctaSecondary}
         />
       </section>
-
-      <HeroImage />
 
       <section id="stats">
         <Stats
