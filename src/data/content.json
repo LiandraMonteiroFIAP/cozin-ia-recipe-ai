@@ -53,7 +53,7 @@
         "description": "Nosso algoritmo cruza dados de personalidade, estilo de vida e valores para sugerir conexões reais"
       },
       {
-        "icon": "Chat",
+        "icon": "MessageCircle",
         "title": "Conversa com contexto",
         "description": "Sugestões de tópicos e quebra-gelos baseados nos interesses em comum"
       },
