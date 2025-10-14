@@ -1,13 +1,13 @@
 {
   "brand": {
-    "name": "Conecta.me",
-    "slogan": "O futuro dos relacionamentos",
+    "name": "Cozin.ia",
+    "slogan": "O futuro da comida é consciente.",
     "shortDescription": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
     "longDescription": "O propósito do app é incentivar a conscientização do desperdício de alimento utilizando inteligência artificial para reaproveitar o que já tem em casa. A ideia é a pessoa fotografar os alimentos que tem em casa ou na dispensa ou na geladeira, e a IA irá sugerir receitas saudáveis com o que ela tem. A pessoa também poderá listar os alimentos caso não queira tirar foto, ou utilizar recursos de voz."
   },
   "seo": {
-    "title": "Conecta.me - O futuro dos relacionamentos",
-    "description": "Aplicativo para de relacionamentos.",
+    "title": "Cozin.ia - Receitas sustentáveis com IA",
+    "description": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
     "keywords": "Receitas sustentáveis, Inteligencia Artificial, App de receitas, receitas inovadoras"
   },
   "navbar": {
@@ -21,21 +21,21 @@
     "ctaButton": "Baixar App"
   },
   "hero": {
-    "title": "O futuro dos relacionamentos",
-    "subtitle": "Aplicativo para de relacionamentos.",
-    "ctaPrimary": "Conheça mais pessoas",
-    "ctaSecondary": "Baixar agora"
+    "title": "Transforme seus ingredientes em receitas incríveis",
+    "subtitle": "Fotografe o que tem na geladeira e descubra receitas deliciosas com inteligência artificial",
+    "ctaPrimary": "Baixar o app",
+    "ctaSecondary": "Ver como funciona"
   },
   "stats": {
     "title": "Números que fazem a diferença",
     "items": [
       {
         "value": "89%",
-        "label": "De pessoas encontrando o amor"
+        "label": "Redução de desperdício"
       },
       {
         "value": "500+",
-        "label": "Almas gêmeas conectadas"
+        "label": "Receitas geradas por dia"
       },
       {
         "value": "4.8★",
@@ -106,7 +106,7 @@
     "button": "Começar agora"
   },
   "footer": {
-    "copyright": "© 2025 Conecta.me. Todos os direitos reservados.",
+    "copyright": "© 2025 Cozin.ia. Todos os direitos reservados.",
     "links": [
       {
         "title": "Produto",
