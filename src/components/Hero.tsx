@@ -10,7 +10,7 @@ interface HeroProps {
 
 export const Hero = ({ title, subtitle, ctaPrimary, ctaSecondary }: HeroProps) => {
   return (
-    <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-gradient-subtle">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-subtle pt-16">
       {/* Background elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-primary/10 rounded-full blur-3xl animate-float" />

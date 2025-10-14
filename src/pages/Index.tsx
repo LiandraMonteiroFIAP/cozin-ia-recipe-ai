@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
 import { Stats } from "@/components/Stats";
 import { Features } from "@/components/Features";
@@ -27,35 +28,51 @@ const Index = () => {
 
   return (
     <div className="min-h-screen">
-      <Hero
-        title={data.hero.title}
-        subtitle={data.hero.subtitle}
-        ctaPrimary={data.hero.ctaPrimary}
-        ctaSecondary={data.hero.ctaSecondary}
+      <Navbar
+        brandName={data.brand.name}
+        links={data.navbar.links}
+        ctaButton={data.navbar.ctaButton}
       />
 
-      <Stats
-        title={data.stats.title}
-        items={data.stats.items}
-      />
+      <section id="hero">
+        <Hero
+          title={data.hero.title}
+          subtitle={data.hero.subtitle}
+          ctaPrimary={data.hero.ctaPrimary}
+          ctaSecondary={data.hero.ctaSecondary}
+        />
+      </section>
 
-      <Features
-        title={data.features.title}
-        subtitle={data.features.subtitle}
-        items={data.features.items}
-      />
+      <section id="stats">
+        <Stats
+          title={data.stats.title}
+          items={data.stats.items}
+        />
+      </section>
 
-      <HowItWorks
-        title={data.howItWorks.title}
-        subtitle={data.howItWorks.subtitle}
-        steps={data.howItWorks.steps}
-      />
+      <section id="features">
+        <Features
+          title={data.features.title}
+          subtitle={data.features.subtitle}
+          items={data.features.items}
+        />
+      </section>
 
-      <CTA
-        title={data.cta.title}
-        subtitle={data.cta.subtitle}
-        button={data.cta.button}
-      />
+      <section id="how-it-works">
+        <HowItWorks
+          title={data.howItWorks.title}
+          subtitle={data.howItWorks.subtitle}
+          steps={data.howItWorks.steps}
+        />
+      </section>
+
+      <section id="cta">
+        <CTA
+          title={data.cta.title}
+          subtitle={data.cta.subtitle}
+          button={data.cta.button}
+        />
+      </section>
 
       <Footer
         brandName={data.brand.name}

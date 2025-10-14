@@ -10,6 +10,16 @@
     "description": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
     "keywords": "Receitas sustentáveis, Inteligencia Artificial, App de receitas, receitas inovadoras"
   },
+  "navbar": {
+    "links": [
+      { "label": "Início", "href": "#hero" },
+      { "label": "Estatísticas", "href": "#stats" },
+      { "label": "Recursos", "href": "#features" },
+      { "label": "Como Funciona", "href": "#how-it-works" },
+      { "label": "Comece Agora", "href": "#cta" }
+    ],
+    "ctaButton": "Baixar App"
+  },
   "hero": {
     "title": "Transforme seus ingredientes em receitas incríveis",
     "subtitle": "Fotografe o que tem na geladeira e descubra receitas deliciosas com inteligência artificial",
