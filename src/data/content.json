@@ -1,0 +1,126 @@
+{
+  "brand": {
+    "name": "Cozin.ia",
+    "slogan": "O futuro da comida é consciente.",
+    "shortDescription": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
+    "longDescription": "O propósito do app é incentivar a conscientização do desperdício de alimento utilizando inteligência artificial para reaproveitar o que já tem em casa. A ideia é a pessoa fotografar os alimentos que tem em casa ou na dispensa ou na geladeira, e a IA irá sugerir receitas saudáveis com o que ela tem. A pessoa também poderá listar os alimentos caso não queira tirar foto, ou utilizar recursos de voz."
+  },
+  "seo": {
+    "title": "Cozin.ia - Receitas sustentáveis com IA",
+    "description": "Aplicativo para geração de receitas com inteligência artificial baseado nos alimentos que você já tem em casa.",
+    "keywords": "Receitas sustentáveis, Inteligencia Artificial, App de receitas, receitas inovadoras"
+  },
+  "hero": {
+    "title": "Transforme seus ingredientes em receitas incríveis",
+    "subtitle": "Fotografe o que tem na geladeira e descubra receitas deliciosas com inteligência artificial",
+    "ctaPrimary": "Baixar o app",
+    "ctaSecondary": "Ver como funciona"
+  },
+  "stats": {
+    "title": "Números que fazem a diferença",
+    "items": [
+      {
+        "value": "89%",
+        "label": "Redução de desperdício"
+      },
+      {
+        "value": "500+",
+        "label": "Receitas geradas por dia"
+      },
+      {
+        "value": "4.8★",
+        "label": "Avaliação dos usuários"
+      }
+    ]
+  },
+  "features": {
+    "title": "Tudo o que você precisa para cozinhar melhor",
+    "subtitle": "Tecnologia de ponta para uma alimentação consciente e saudável",
+    "items": [
+      {
+        "icon": "Camera",
+        "title": "Reconhecimento por foto",
+        "description": "Tire uma foto dos ingredientes e nossa IA identifica automaticamente o que você tem disponível"
+      },
+      {
+        "icon": "Mic",
+        "title": "Comando de voz",
+        "description": "Prefere falar? Basta ditar os ingredientes e receba sugestões personalizadas instantaneamente"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Receitas inteligentes",
+        "description": "Algoritmos avançados criam receitas saudáveis e deliciosas baseadas no seu perfil e preferências"
+      },
+      {
+        "icon": "Leaf",
+        "title": "Zero desperdício",
+        "description": "Aproveite cada ingrediente ao máximo e contribua para um planeta mais sustentável"
+      },
+      {
+        "icon": "Heart",
+        "title": "Alimentação saudável",
+        "description": "Todas as receitas são balanceadas nutricionalmente para manter sua saúde em dia"
+      },
+      {
+        "icon": "Clock",
+        "title": "Economia de tempo",
+        "description": "Sem mais planejamento de refeições. Receba sugestões prontas em segundos"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Como funciona",
+    "subtitle": "Três passos simples para nunca mais desperdiçar comida",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Capture seus ingredientes",
+        "description": "Fotografe, liste ou fale os alimentos que você tem em casa"
+      },
+      {
+        "number": "02",
+        "title": "IA analisa e sugere",
+        "description": "Nossa inteligência artificial processa suas opções e cria receitas personalizadas"
+      },
+      {
+        "number": "03",
+        "title": "Cozinhe e aproveite",
+        "description": "Siga o passo a passo e prepare refeições deliciosas sem desperdício"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para revolucionar sua cozinha?",
+    "subtitle": "Junte-se a milhares de usuários que já estão cozinhando de forma mais inteligente e sustentável",
+    "button": "Começar agora"
+  },
+  "footer": {
+    "copyright": "© 2025 Cozin.ia. Todos os direitos reservados.",
+    "links": [
+      {
+        "title": "Produto",
+        "items": [
+          { "label": "Funcionalidades", "url": "#features" },
+          { "label": "Como funciona", "url": "#how-it-works" },
+          { "label": "Preços", "url": "#pricing" }
+        ]
+      },
+      {
+        "title": "Empresa",
+        "items": [
+          { "label": "Sobre nós", "url": "#about" },
+          { "label": "Blog", "url": "#blog" },
+          { "label": "Contato", "url": "#contact" }
+        ]
+      },
+      {
+        "title": "Legal",
+        "items": [
+          { "label": "Privacidade", "url": "#privacy" },
+          { "label": "Termos", "url": "#terms" }
+        ]
+      }
+    ]
+  }
+}
